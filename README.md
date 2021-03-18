@@ -24,7 +24,7 @@ __Supervising Faculty :__  <br><br>
 * HTML, CSS, JavaScript and MySQL
 
 ### EER Diagram and Relational Schema Diagram : 
-* Check EER Diagram and Relational Schema Diagram from [here](https://github.com/shoaibdipu/BRACU_CSE370_DatabaseSystems/tree/main/Diagrams).
+* Check EER Diagram and Relational Schema Diagram from [here](https://github.com/shoaibdipu/BRACU_CSE370_DatabaseSystems/tree/master/Diagrams).
 
 ## Installation Guideline :
 * Clone the whole repository to your localhost folder.
